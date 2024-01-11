@@ -17,5 +17,6 @@ public class ScoreManagement : MonoBehaviour
     {
         scoreText.text = $"{Score}";
 
+        float a = 0;
     }
 }
