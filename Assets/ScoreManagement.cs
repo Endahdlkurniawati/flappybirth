@@ -19,5 +19,6 @@ public class ScoreManagement : MonoBehaviour
 
         float a = 0;
         float b = 0;
+        Debug.Log(scoreText.text);
     }
 }
