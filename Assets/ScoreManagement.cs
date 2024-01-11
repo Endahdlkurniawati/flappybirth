@@ -16,6 +16,7 @@ public class ScoreManagement : MonoBehaviour
     void Update()
     {
         scoreText.text = $"{Score}";
-        Debug.Log(scoreText.text);
+
+        float a = 0;
     }
 }
